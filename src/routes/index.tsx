@@ -6,13 +6,13 @@ import {
 } from "lucide-react";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { whatsappUrl, OFFICIAL_URL } from "@/lib/whatsapp";
-import logoAsset from "@/assets/mk-logo.jpg";
-import introVideo from "@/assets/mk-promo-intro.mp4";
-import showcaseVideo from "@/assets/mk-promo-showcase.mp4";
-import showcaseVideoWebm from "@/assets/mk-promo-showcase.webm";
-import journeyVideo from "@/assets/mk-promo-journey.mp4";
-import journeyVideoWebm from "@/assets/mk-promo-journey.webm";
-import introVideoWebm from "@/assets/mk-promo-intro.webm";
+import logoAsset from "@/assets/mk-logo.jpg.asset.json";
+import introVideo from "@/assets/mk-promo-intro.mp4.asset.json";
+import showcaseVideo from "@/assets/mk-promo-showcase.mp4.asset.json";
+import showcaseVideoWebm from "@/assets/mk-promo-showcase.webm.asset.json";
+import journeyVideo from "@/assets/mk-promo-journey.mp4.asset.json";
+import journeyVideoWebm from "@/assets/mk-promo-journey.webm.asset.json";
+import introVideoWebm from "@/assets/mk-promo-intro.webm.asset.json";
 
 const TITLE = "MK Hi-Tech Promotion | Explore Staking, Token Utility and Digital Services";
 const DESC =
